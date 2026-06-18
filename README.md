@@ -38,7 +38,7 @@ The lab collects Windows logs, Sysmon telemetry, and security events for central
 
 ### Threat Hunting
 
-![Threat Hunting](screenshots/threat-hunting.png)
+![Threat Hunting](screenshots/Microsoft-Windows-Sysmon-Operational.png)
 
 ### Sysmon Events
 
