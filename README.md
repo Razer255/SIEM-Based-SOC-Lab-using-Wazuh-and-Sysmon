@@ -36,13 +36,13 @@ The lab collects Windows logs, Sysmon telemetry, and security events for central
 
 ![Dashboard](screenshots/Wazuh_Dashboard.png)
 
-### Threat Hunting
+### Agent Connected to The Server
 
-![Threat Hunting](screenshots/Microsoft-Windows-Sysmon-Operational.png)
+![Threat Hunting](screenshots/user001.png)
 
 ### Sysmon Events
 
-![Sysmon](screenshots/sysmon-events.png)
+![Sysmon Events](screenshots/Microsoft-Windows-Sysmon-Operational.png)
 
 ## Attack Simulations
 
