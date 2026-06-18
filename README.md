@@ -34,7 +34,7 @@ The lab collects Windows logs, Sysmon telemetry, and security events for central
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/WazuhDashboard.png)
 
 ### Threat Hunting
 
