@@ -1,8 +1,9 @@
 # SIEM-Based SOC Lab
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Overview
 
 This project demonstrates a Security Operations Center (SOC) Lab built using Wazuh SIEM, Sysmon, Ubuntu Server, and Windows 10.
