@@ -48,6 +48,17 @@ The lab collects Windows logs, Sysmon telemetry, and security events for central
 
 ![Sysmon Events](screenshots/Microsoft-Windows-Sysmon-Operational.png)
 
+Note: This repository contains a simplified Sysmon configuration
+used for educational and lab purposes. Production deployments
+should use a hardened community configuration such as SwiftOnSecurity's Sysmon config.
+
+<!--
+Based on SwiftOnSecurity Sysmon Configuration
+https://github.com/SwiftOnSecurity/sysmon-config
+
+Used for educational purposes within this SIEM lab.
+-->
+
 ## Attack Simulations
 
 * PowerShell Execution
