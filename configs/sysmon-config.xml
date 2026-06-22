@@ -1,0 +1,43 @@
+<Sysmon schemaversion="4.90">
+
+<HashAlgorithms>SHA256</HashAlgorithms>
+
+  <EventFiltering>
+
+```
+<!-- Process Creation -->
+<ProcessCreate onmatch="include">
+</ProcessCreate>
+
+<!-- Network Connections -->
+<NetworkConnect onmatch="include">
+</NetworkConnect>
+
+<!-- Driver Loading -->
+<DriverLoad onmatch="include">
+</DriverLoad>
+
+<!-- Image Loading -->
+<ImageLoad onmatch="include">
+</ImageLoad>
+
+<!-- File Creation -->
+<FileCreate onmatch="include">
+</FileCreate>
+
+<!-- Registry Modifications -->
+<RegistryEvent onmatch="include">
+</RegistryEvent>
+
+<!-- DNS Queries -->
+<DnsQuery onmatch="include">
+</DnsQuery>
+
+<!-- Process Termination -->
+<ProcessTerminate onmatch="include">
+</ProcessTerminate>
+```
+
+  </EventFiltering>
+
+</Sysmon>
